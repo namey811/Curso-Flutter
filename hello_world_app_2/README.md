@@ -1,16 +1,11 @@
 # hello_world_app_2
 
-A new Flutter project.
+Aplicacion en flutter para el manejo de un contador realizando acciones de incrementar, decrementar y resetear el contador.
 
-## Getting Started
+## DEMO
 
-This project is a starting point for a Flutter application.
+Aqui encontraras un ejemplo de la aplicacion en ejecucion desde el navegador Google Chrome.
 
-A few resources to get you started if this is your first Flutter project:
+[![Demo application](../imagenes/hello_world_app_2_demo.png)](#)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### El contenido de este repositorio esta basado en el curso: [DevTalles](https://cursos.devtalles.com/pages/programas-flutter)
