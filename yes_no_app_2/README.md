@@ -6,5 +6,5 @@ Aplicacion en flutter que interactua con un API (https://yesno.wtf/api) para obt
 
 Aqui encontraras un ejemplo de la aplicacion en ejecucion desde el navegador Google Chrome.
 
-[![Demo application](../imageness/yes_no_app2_demo.png)](https://www.python.org/)
+[![Demo application](./imageness/yes_no_app2_demo.png)](https://www.python.org/)
 
