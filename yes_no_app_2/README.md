@@ -1,5 +1,6 @@
 # yes_no_app_2
 
+<<<<<<< HEAD
 A new Flutter project.
 
 ## Getting Started
@@ -14,3 +15,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Aplicacion en flutter que interactua con un API (https://yesno.wtf/api) para obtener respuestas basadas en Si/No/Talvez
+
+## DEMO
+
+Aqui encontraras un ejemplo de la aplicacion en ejecucion desde el navegador Google Chrome.
+
+[![Demo application](../imagenes/yes_no_app2_demo.png)](#)
+
+##### El contenido de este repositorio esta basado en el curso: [DevTalles](https://cursos.devtalles.com/pages/programas-flutter)
+>>>>>>> 412a1770b73e86a17b408c021470b38fde855ab0
