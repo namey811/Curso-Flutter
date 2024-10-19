@@ -17,3 +17,11 @@ Renombren esos videos así, ya que es lo que se encuentra en nuestro data source
 7.mp4
 8.mp4
 ```
+
+## DEMO
+
+Aqui encontraras un ejemplo de la aplicacion en ejecucion desde el navegador Google Chrome.
+
+[![Demo application](../imagenes/toktik_app_demo.png)](#)
+
+##### El contenido de este repositorio esta basado en el curso: [DevTalles](https://cursos.devtalles.com/pages/programas-flutter)
