@@ -1,5 +1,9 @@
 <h1 align="center">Hola 👋, Soy Ivan Narvaez</h1>
-<h3 align="center">Un apasionado por la tecnologia, tengo experiencia en el area de IT, Desarrollo y Automatizacion.</h3>
+<h3 align="center">Un apasionado por la tecnologia, tengo experiencia en el area de IT, DevOps, Seguridad Informatica y Redes. En este repositorio encontraras informacion relevante sobre todas las tecnologias con las que he trabajado a lo largo de mi carrera profesional, proyectos realizados y todo esto estara disponible completamente GRATIS!!</h3>
+
+- 🔭 Actualmente me desempeño como CEO en: [ITCloud S.A.S](https://itcloud.com.co)
+
+- 🌱 Actualmente me encuentro trabajando en una aplicacion mobile llamada **OrderAPP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
