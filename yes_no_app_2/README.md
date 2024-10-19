@@ -8,3 +8,4 @@ Aqui encontraras un ejemplo de la aplicacion en ejecucion desde el navegador Goo
 
 [![Demo application](../imagenes/yes_no_app2_demo.png)](#)
 
+##### El contenido de este repositorio esta basado en el curso: [DevTalles](https://cursos.devtalles.com/pages/programas-flutter)
